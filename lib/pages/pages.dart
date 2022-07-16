@@ -1,0 +1,9 @@
+import 'package:flutter/material.dart';
+export 'insta_home.dart';
+export 'myhome_page.dart';
+export 'splash_screen.dart';
+export 'search.dart';
+export 'first_screen.dart';
+export 'store.dart';
+export 'profile.dart';
+export 'listing.dart';
